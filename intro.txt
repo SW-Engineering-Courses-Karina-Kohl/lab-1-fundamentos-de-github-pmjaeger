@@ -1,6 +1,10 @@
 Esta é a versão inicial do arquivo. 
 É ele que você vai editar como exercício do Lab
 
+BTS? Só conheço o SBT
+Caraca uau eu tinha um namorado que...
+Voces concordam que responsabilidade afetiva é sobre honestidade e não reciprocidade???
+
 editing intro.txt
 
 modifying feature-branch
